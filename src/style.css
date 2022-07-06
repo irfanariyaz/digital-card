@@ -1,0 +1,111 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+}
+
+header,
+h1,
+h4,p {
+    margin: 0;
+}
+
+.main-container {
+    width: 550px;
+    background: #23252C;
+    margin: 0 auto;
+    padding: 44px 0;
+    
+}
+
+.container {
+    width: 317px;
+    margin: 0 auto;
+      
+}
+header,main{
+    background: #1A1B21;  
+}
+
+
+header h1 {
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-top: 21px;
+}
+
+header h4 {
+    font-size: 12.8px;
+    line-height: 15px;
+    text-align: center;
+    color: #F3BF99;
+}
+
+header p {
+    font-size: 10.24px;
+    text-align: center;
+    color: #F5F5F5;
+    margin-top: 8px;
+   
+
+}
+.btn{
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+    gap: 8px;
+}
+.btn > button{
+    padding: 9px 23px 9px 21px;
+    
+    border: 1px solid #D1D5DB;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+}
+button > img{
+     margin-right: 10px;
+    
+}
+.btn-lkdn{
+    background: #5093E2;
+}
+.linkdn-icon{
+   
+    width: 13px;
+    height: 10px;
+}
+main{
+    
+    /* width: 242px; */
+    margin: 0 auto;
+    color: #F5F5F5;
+    padding: 24px 37px;
+    
+
+
+}
+main > section{
+margin-top: 30px;
+}
+section >p{
+    margin-top: 5px;
+    font-size: 12px;
+}
+footer{
+    
+    background: #161619;
+    padding: 19px 60px;
+    border-radius: 0 0 10px 10px; 
+    
+}
+footer >img {
+    margin-right: 24px;
+}
