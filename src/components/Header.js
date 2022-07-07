@@ -1,5 +1,5 @@
 import React from "react"
-import profile from "../images/profile.png"
+import profile from "../images/photo.png"
 import emailicon from "../images/Icon.png"
 import lnkdnicon from "../images/linkedin.png"
 
