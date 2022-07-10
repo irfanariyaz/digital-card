@@ -9,7 +9,7 @@ export default function Header(){
         <header>
            <img src={profile} alt=""></img>
            <h1>Irfana Sulaiman</h1>
-           <h4>Full Stack Developer</h4>
+           <h4>Full Stack Developer </h4>
            <p>irfana.27@gmail.com</p>
            <div className="btn">
             <button><img src={emailicon} alt=""></img>Email</button>
